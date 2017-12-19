@@ -1,0 +1,21 @@
+[
+  {
+    "name": "name-1",
+    "type": "checkbox"
+  },
+  
+  {
+    "name": "name-2",
+    "type": "checkbox"
+  },
+  
+  {
+    "name": "name-3",
+    "type": "checkbox"
+  },
+  
+  {
+    "name": "name-4",
+    "type": "checkbox"
+  }
+]
