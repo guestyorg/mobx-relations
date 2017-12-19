@@ -11,6 +11,6 @@ class Store {
 const store = new Store();
 
 get().then(items => store.list.setItems(items));
-get().then(items => store.list2.setItems(items));
+get().then(items => store.list2.setItems(items.slice(0, 2)));
 
 export default store;
